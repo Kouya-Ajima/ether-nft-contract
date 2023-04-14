@@ -1,3 +1,11 @@
+<!-- @format -->
+
+Solidity を使用したコントラクト開発。 ether-nft-collections で React と TypeScript を使ってフロントを作成.
+
+# コントラクトアドレス
+
+0x58322500dd4BAB324370ec99FF860C0B9784Ad9B
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
